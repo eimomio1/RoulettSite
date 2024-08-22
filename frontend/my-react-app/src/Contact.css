@@ -1,0 +1,22 @@
+.contact {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .contact-links {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 20px; 
+  }
+  
+  .contact-links img {
+    width: 40px; 
+    height: 40px; 
+    transition: transform 0.3s;
+  }
+  
+  .contact-links img:hover {
+    transform: scale(1.2); 
+  }
+  

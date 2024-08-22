@@ -63,5 +63,20 @@ footer {
 }
 
 
+.picture-box {
+  margin: 20px auto; 
+  padding: 20px;
+  max-width: 600px;
+  border: 2px solid #282c34;
+  border-radius: 8px;
+  background-color: #f4f4f4;
+}
+
+.picture-box img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
 
  

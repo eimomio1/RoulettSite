@@ -1,0 +1,23 @@
+.about {
+    text-align: center;             
+    margin: 20px auto;               
+    max-width: 800px;                
+    padding: 20px;                   
+    background-color: #f4f4f4;      
+    border-radius: 10px;             
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .about h2 {
+    margin-bottom: 20px;             
+    font-size: 2rem;                
+    color: #282c34;                  
+  }
+  
+  .about p {
+    font-size: 1.2rem;              
+    line-height: 1.6;               
+    color: #333;                     
+    text-align: left;                
+  }
+  
