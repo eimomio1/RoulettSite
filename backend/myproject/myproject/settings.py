@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # Your apps
-    'calculator',  # Include your calculator app
+    'apis',  # Include your calculator app
     'corsheaders',
 ]
 

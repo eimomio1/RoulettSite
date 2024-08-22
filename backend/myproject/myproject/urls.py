@@ -3,5 +3,5 @@ from django.urls import include, path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('calculator.urls')),  # Include the app's URLs
+    path('', include('apis.urls')),  # Include the app's URLs
 ]
